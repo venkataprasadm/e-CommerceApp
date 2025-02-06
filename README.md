@@ -1,5 +1,3 @@
-![.NET Core](https://github.com/rahulsahay19/eCommerce-App/workflows/.NET%20Core/badge.svg?branch=master)
-
 # Ecommerce App using ASP.NET Core and Angular
 
 
@@ -7,7 +5,7 @@ Hi Friends,
 
 During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 9 with other best practices as explained below. I hope you like it.
 Demo Link:- https://sports-center.azurewebsites.net/
-Git Link:- https://github.com/rahulsahay19/eCommerce-App
+
 
 ## Introduction
 In this section, you will learn how to build full fledged Ecommerce app using asp.net core and angular 9. Below are the key takeaways from this project. Anyone who wants to learn and write professional enterpise projects can refer this project. This project not only illustrates how to implement all layers to the point rather it adheres to best practices as followed by industry.
