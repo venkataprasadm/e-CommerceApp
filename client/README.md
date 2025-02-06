@@ -1,5 +1,3 @@
-![.NET Core](https://github.com/rahulsahay19/eCommerce-App/workflows/.NET%20Core/badge.svg?branch=master)
-
 # Ecommerce App using ASP.NET Core and Angular
 
 
@@ -169,3 +167,6 @@ Demo Link:- https://sports-center.azurewebsites.net/
 
 ![12th](https://user-images.githubusercontent.com/3886381/80680067-bbb69f00-8adb-11ea-90c3-8682349cac0e.png)
 
+
+# Credits:
+Influenced by Neil Cummings
