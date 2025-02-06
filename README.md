@@ -4,7 +4,6 @@
 Hi Friends,
 
 During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 9 with other best practices as explained below. I hope you like it.
-Demo Link:- https://sports-center.azurewebsites.net/
 
 
 ## Introduction
